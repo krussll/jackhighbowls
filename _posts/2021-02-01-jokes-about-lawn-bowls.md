@@ -94,11 +94,6 @@ You've had enough of hell!"
 
 "I'd bowl with him any day" = he always buys the first round
 
-A man was walking down the street when he was approached by a particularly
-
-dirty and shabby-looking homeless man who asked him for a couple of dollars
-
-for dinner.
 
 <img src="/assets/images/jokes/joke-7.jpg" alt="" height="200px" style="max-height: 300px;" />
 <img src="/assets/images/jokes/joke-8.jpg" alt="" height="200px" style="max-height: 300px;" />
