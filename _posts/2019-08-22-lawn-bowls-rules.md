@@ -62,7 +62,7 @@ Two mats are required for a game, one is placed at either end of the green. Mats
 
 <img src="/assets/images/rules-of-lawn-bowls/placing-the-mat-lawn-bowls.jpg" width="730" height="249" alt="How to place the mat lawn bowls" style="width: 100%" />
 
-What are the lawn bowls mat placement rules? **The mat must be placed by the bowler about to roll the jack. The mat must be placed centrally and squarely in line with the rink markers, with the back edge of the mat being at least 2 meters (6ft 6in) away from the ditch and the front edge no more than 25 meters (82ft) from the ditch.**
+What are the lawn bowls mat placement rules? **The mat must be placed by the bowler about to roll the jack. The mat must be placed centrally and squarely in line with the rink markers, with the front edge of the mat being at least 2 meters (6ft 6in) away from the ditch and the front edge no more than 25 meters (82ft) from the ditch.**
 
 >> 6.1.1 Before the start of play in each end, the player to play first must place the centre
 line of the mat lengthwise along the centre line of the rink, with the mat line at
