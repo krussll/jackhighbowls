@@ -18,6 +18,8 @@ Bowling arms typically have to be approved by the bowls authority before they ca
 
 Bowling arms have several uses. A bowler needs to be able to bend down not only to deliver the bowl but also to pick up and place the mat. The clamp of the bowling arm should accommodate both the bowl and the much smaller jack because bowlers have to be able to pick up the jack and deliver it down the green.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oZdtnfF6J_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Ongoing ailments such as arthritis, old sports injuries, spinal rigidity, and sore knees, hips, and ankles make bowling arms a valuable tool for people who don't want to be relegated to the role of spectator just yet. It enables them to remain healthy and active despite advancing years or disability.
 
 While many people with these afflictions simply deliver the bowl from a standing or sem-standing position, this increases the distance the bowl must fall before hitting the green. It can not only affect the smoothness and accuracy of delivery but also damage the green.
@@ -34,6 +36,8 @@ For the aesthetic touch, bowling arms come in a range of colors and finishes.
 
 You would think that taller bowlers need longer bowling arms, but according to the experts, this is not the best way to choose which length of bowling arm to use. Short people's arm length can vary, as can that of tall people. Some tall people can have very long arms, but others don't. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OwTf2soUDxQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 This means that a medium arm may suit both shorter and taller players. The experts recommend that whatever size bowling arm you use, at the moment when the bowl is released, the distance between the bowl and the surface of the green should be between two and three centimeters. This will ensure smooth delivery of the jack or bowl.
 
 It may take a little while to get used to using a bowling arm, and bowlers looking for one should ideally try out different lengths before settling on one. Drakes Pride and Bionic Bowler arms come in three different sizes – short, medium, and long. There is also an extra short size for people in wheelchairs. The DHB Hacksaw arm is custom-made for individual length and bowl size.
@@ -46,8 +50,9 @@ If the bowler takes a full step before delivery, then a shorter-length arm may b
 
 A bowl can also be correctly aligned in a cradle, and then the arm is clamped over it to lift it out of the cradle while maintained the aligned position. You hold the arm at a slightly forward angle when picking up the bowl so that the jaws fit appropriately in the correct alignment.
 
-Bowling arms use different clamps to hold the bowl, depending on their design. They also have slightly different release mechanisms on the handle. For instance, the Green Bionic Bowler uses a thumb release while the Drakes Pride arm has a release that is gripped with the fingers. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NftzsS_hrWM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Bowling arms use different clamps to hold the bowl, depending on their design. They also have slightly different release mechanisms on the handle. For instance, the Green Bionic Bowler uses a thumb release while the Drakes Pride arm has a release that is gripped with the fingers. 
 
 ### 1. Prepare
 
@@ -99,7 +104,7 @@ One bowler who observed the use of bowling arms over a five-year period noted th
 
 There have been calls from some bowlers to regulate mechanical arms so that arm bowlers, as they are called, don't have these advantages over their able-bodied counterparts. Other people say that bowling arms are a reality and that other bowlers' claims that they give an unfair advantage are unfounded.
 
-## Bowling Arms Approved By Bowling Bodies
+## Lawn Bowls Bowling Arm Rules
 
 The use of bowling arms is becoming increasingly popular, and they are regarded by many bowling authorities as a necessary aid to enable bowlers to continue playing. It is not only disabled bowlers who are permitted to use bowling arms. However, able-bodied bowlers are not generally allowed to use them.
 
