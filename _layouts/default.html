@@ -17,6 +17,11 @@
 <meta name="robots" content="max-image-preview:large">
 <link rel="icon" href="{{ site.baseurl }}/favicon.ico">
 <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+	
+{% if page.tags != blank %}	
+<meta name="keyword" content="{{ page.tags }}">
+{% endif %}
+	
 <title>{{ page.title }} | {{site.title_suffix}}</title>
   
 <link rel="canonical" href="{{ site.baseurl }}{{ page.url }}" />
