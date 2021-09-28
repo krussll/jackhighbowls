@@ -6,6 +6,7 @@ categories: [ guide ]
 image: assets/images/best-lawn-bowls-brands.jpeg
 description: "What are the best lawn bowls brands in 2021? Which brands should you be using?"
 last_modified_at: 2021-03-04
+tags: "brands"
 ---
 
 ## #7 Acclaim
