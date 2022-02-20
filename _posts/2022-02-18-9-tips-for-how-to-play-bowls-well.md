@@ -4,7 +4,7 @@ title:  "REVEALED: 9 Tips For How to Play Lawn Bowls Well | A Helpful Guide"
 author: reece
 categories: [ help ]
 image: assets/images/9-tips-for-how-to-play-bowls-well.jpg
-featured: true
+featured: false
 description: "There’s learning how to play lawn bowls, and then there’s learning how to play well. "
 ---
 
